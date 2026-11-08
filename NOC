@@ -1,0 +1,27 @@
+IT-Support-Infrastructure-NOC/
+│
+├── README.md
+│
+├── 01-IT-Support/
+│   ├── troubleshooting/
+│   ├── windows/
+│   └── linux/
+│
+├── 02-Networking/
+│   ├── tcp-ip/
+│   ├── dns-dhcp/
+│   └── network-diagrams/
+│
+├── 03-NOC-Monitoring/
+│   ├── monitoring-reports/
+│   ├── incident-management/
+│   └── alerts-and-logs/
+│
+├── 04-Infrastructure/
+│   ├── servers/
+│   ├── backups/
+│   └── virtualization/
+│
+└── 05-Labs/
+    ├── practical-exercises/
+    └── documentation/
